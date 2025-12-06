@@ -41,8 +41,9 @@ Space_Weather/
 ## 🔧 Installation
 
 ### 1. Clone the repository
-```bash
+```bash```
 git clone https://github.com/c0pp3rdru1d/Space_Weather
+
 cd Space_Weather
 
 2. (Optional) Create a virtual environment
@@ -86,17 +87,17 @@ You can add a /api_clients/ module for automatic retrieval.
 
 Modern life depends on systems vulnerable to solar activity:
 
-    GPS degradation
+  GPS degradation
 
-    Satellite anomalies
+  Satellite anomalies
 
-    Aviation communication interference
+  Aviation communication interference
 
-    Power grid instability
+  Power grid instability
 
-    HF/VHF signal disruption
+  HF/VHF signal disruption
 
-    Radio blackout events
+  Radio blackout events
 
 Monitoring helps predict and mitigate risks before failures occur.
 🛣 Roadmap
@@ -106,7 +107,7 @@ Setup project skeleton
 
 Basic monitoring loop
 
-    Add logging + output formatting
+  Add logging + output formatting
 
 Phase 2 — Data Integration
 
@@ -114,7 +115,7 @@ Add NASA DONKI API client
 
 Add NOAA SWPC telemetry
 
-    Add Kp index visualizer
+  Add Kp index visualizer
 
 Phase 3 — GUI Application
 
@@ -122,7 +123,7 @@ Tkinter or PyQt live dashboard
 
 Real-time graphs (matplotlib / plotly)
 
-    Alerts & Notifications
+  Alerts & Notifications
 
 Phase 4 — Pro Version
 
@@ -130,11 +131,11 @@ Space-weather forecasting model
 
 Neural-net anomaly prediction
 
-    Distributed sensor network support
+  Distributed sensor network support
 
 🖼 Screenshots (Planned)
 
-    You can add these later once the project has UI or CLI output.
+  You can add these later once the project has UI or CLI output.
 
 [ placeholder ]
 [ Live Solar Wind Panel ]
@@ -156,3 +157,4 @@ It helps bring visibility to space-weather science tools.
 Built by CopperDruid
 
 Software Developer • Network Admin • Space Weather Enthusiast
+
